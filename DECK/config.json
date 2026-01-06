@@ -1,0 +1,49 @@
+{
+  "Profiles": [
+    {
+      "Name": "CONTROL",
+      "Keys": {
+        "6": "send:{Media_Next}",
+        "4": "send:{Media_Prev}",
+        "8": "send:^{Up}",
+        "2": "send:^{Down}",
+        "5": "send:{Media_Play_Pause}",
+        "7": "send:{Volume_Up}",
+        "1": "send:{Volume_Down}",
+        "3": "send:{Volume_Mute}",
+        "9": "send:^+m",
+        "Add": "send:!{F9}",
+        "Sub": "send:#+s",
+        "Dot": "send:."
+      }
+    },
+    {
+      "Name": "GAMEPAD",
+      "Keys": {
+        "3": "hold:LCtrl",
+        "0": "hold:LShift",
+        "Enter": "hold:Space",
+        "7": "hold:q",
+        "8": "hold:w",
+        "9": "hold:e",
+        "Sub": "hold:r",
+        "4": "hold:a",
+        "5": "hold:s",
+        "6": "hold:d",
+        "Add": "hold:f",
+        "1": "hold:z",
+        "2": "hold:x",
+        "Dot": "send:{Esc}"
+      }
+    },
+    {
+      "Name": "test",
+      "Keys": {
+        "5": "send:s",
+        "8": "send:fd",
+        "4": "hold:a",
+        "6": "hold:d"
+      }
+    }
+  ]
+}
