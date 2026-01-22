@@ -23,3 +23,5 @@ Customize: Just open the script and tell it what you want each button to do. Itâ
     <img src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge">
   </a>
 </p>
+![Animation3](https://github.com/user-attachments/assets/2338485d-bd41-4891-b34f-ba28d0ff630f)
+![Animation](https://github.com/user-attachments/assets/991e397e-2f30-436b-84ea-d1f5ae3156ad)
