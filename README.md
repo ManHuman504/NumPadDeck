@@ -18,3 +18,8 @@ No Extra Hardware: Uses the numpad you already have on your desk.
 Toggle Mode: Press NumLock to enter "Deck Mode". Your numpad now runs your macros.
 Switch Profiles: Use / and * to flip through your custom setups (e.g., from "Discord/Music" to "Hardcore Gaming").
 Customize: Just open the script and tell it what you want each button to do. It’s that simple.
+<p align="center">
+  <a href="https://github.com/ManHuman504/NumPadDeck/releases/tag/deck">
+    <img src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge">
+  </a>
+</p>
